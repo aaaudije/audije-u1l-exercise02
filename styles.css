@@ -13,6 +13,16 @@
     font-family:'Times New Roman', Times, serif ;
 }
 
+a {
+  text-decoration: none; 
+  color: inherit; 
+
+}
+
+.bold{
+  font-weight:bold;
+}
+
   /*Top Part*/
   .logo-image {
     width: 50%;
@@ -172,9 +182,3 @@
 }
 
 .footer-info{ background-color: white;}
-
-a {
-  text-decoration: none; 
-  color: inherit; 
-
-}
