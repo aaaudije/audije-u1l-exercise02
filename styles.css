@@ -140,12 +140,12 @@
   font-family:'Times New Roman', Times, serif ;
     display: flex;
     justify-content: start;
-    align-items: center;
-    margin: 5px;
-   
+    align-items: start;
+    margin: 20px;
     border-radius: 5px;
     gap: 20px; 
     flex: auto;
+    flex-direction: column;
   
 }
 .box2-bottom {
@@ -156,7 +156,7 @@
   font-family:'Times New Roman', Times, serif ;
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: start;
   margin: 5px;
   border: 1px solid white;
   border-radius: 5px;
